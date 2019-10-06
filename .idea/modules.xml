@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Checkpoint1Suristin.iml" filepath="$PROJECT_DIR$/Checkpoint1Suristin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckpointLaiteSuristin/CheckpointLaiteSuristin.iml" filepath="$PROJECT_DIR$/CheckpointLaiteSuristin/CheckpointLaiteSuristin.iml" />
+    </modules>
+  </component>
+</project>
